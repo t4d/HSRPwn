@@ -4,11 +4,11 @@ HSRPwn is a simple tool that allows to declare, and keep up, your host as The Ga
 This script use to elect the chosen host to become the new LAN's gateway.
 !!!Take care of where you execute this!!!
 
-##Requirements
+## Requirements
 
 [Scapy](https://pypi.python.org/pypi/scapy)
 
-##Usage
+## Usage
 
 Edit 'Vars' part:
  * 'IF' interface connected to LAN which send packets
@@ -22,7 +22,7 @@ Just executeHSRPwn.py, as root:
   ........
 ```
 
-##References
+## References
 
 [Wikipedia](https://en.wikipedia.org/wiki/Hot_Standby_Router_Protocol)
 [Cisco](http://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/9234-hsrpguidetoc.html)
