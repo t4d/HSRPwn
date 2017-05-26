@@ -1,8 +1,8 @@
 # HSRPwn
 
-HSRPwn is a simple tool that allows to declare, and keep up, your host as The Gateway in a Cisco's HSRP LAN environment where default HSRP password is in use.
+HSRPwn is a simple tool that allows to declare - and keep UP - your host as THE gateway in a Cisco's HSRP LAN environment where default HSRP password is in use.
 This script use to elect the chosen host to become the new LAN's gateway.
-!!!Take care of where you execute this!!!
+Because you change all the topology of your routing configuration: ### !!!Take care of where you execute this!!!
 
 ## Requirements
 
@@ -16,7 +16,7 @@ Edit 'Vars' part:
  * 'GW_IPADDR' the 'real' HSRP Gateway's IP address
  * 'GW_HWADDR' the 'real' HSRP Gateway's MAC address
 
-Just executeHSRPwn.py, as root:
+You can now launch HSRPwn.py, as root:
 ```bash
   $ sudo ./HSRPwn.py
   ........
