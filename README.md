@@ -25,5 +25,6 @@ You can now launch HSRPwn.py, as root:
 
 ## References
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hot_Standby_Router_Protocol)
-[Cisco](http://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/9234-hsrpguidetoc.html)
+[Wikipedia - Hot_Standby_Router_Protocol](https://en.wikipedia.org/wiki/Hot_Standby_Router_Protocol)
+
+[Cisco - hot-standby-router-protocol-hsrp](http://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/9234-hsrpguidetoc.html)
