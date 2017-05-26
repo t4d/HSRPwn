@@ -2,7 +2,8 @@
 
 HSRPwn is a simple tool that allows to declare - and keep UP - your host as THE gateway in a Cisco's HSRP LAN environment where default HSRP password is in use.
 This script use to elect the chosen host to become the new LAN's gateway.
-Because you change all the topology of your routing configuration: ### !!!Take care of where you execute this!!!
+Because you change all the topology of your routing configuration: 
+  ### !!!Take care of where you execute this!!!
 
 ## Requirements
 
